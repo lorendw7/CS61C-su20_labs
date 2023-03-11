@@ -1,1 +1,1 @@
-# su20-lab
+# CS61C-su20-lab
